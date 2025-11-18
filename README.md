@@ -23,13 +23,13 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/juujap/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JuuJap"/>
  </a>
  <a href="https://x.com/JulioRodrigueAp" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/juujap" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="JuuJap" />
  </a> 
 </p>
 <br />
@@ -42,7 +42,7 @@
   
  ✌️ &emsp; Curto fazer uns códigos em várias linguagens diferentes <br/><br/>
  ❤️ &emsp; Adoro jogos, RPG, livros e musica <br/><br/>
- 📧 &emsp; Veja mais de mim no meu [perfil](https://guns.lol/juuj)<br/><br/>
+ 📧 &emsp; Veja mais de mim no meu [site](https://guns.lol/juuj)<br/><br/>
  💬 &emsp; Converse comigo no [Discord](https://discordapp.com/users/569741184625541121), sou mais ativo la!<br/><br/>
 
 </p>
