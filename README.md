@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**JuuJap/JuuJap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=JuuJap&label=Visitors&color=FF0000&style=flat" alt="Profile visitor" />
+</a>
 
-Here are some ideas to get you started:
+<p>• Perfilzinho <a href="https://github.com/JuuJap"">JuuJap</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Inicio pae  -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=red&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+JuuJap!;Bem-vindo+ao+meu+perfil!",>
+</p>
+
+
+
+  <!-- links para perfis -->
+<p align="center"> 
+  <samp>
+    <a href="https://discordapp.com/users/569741184625541121">「 My Discord 」</a>
+    <br>
+    <p align="center">
+    「 Atualmente sou um estudante de ADS <b>Brasileiro</b> 」
+    </p>
+    <br>
+    <br>
+  </samp>
+</p>
+<p align="center">
+
+ <a href="https://www.linkedin.com/in/juujap/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://x.com/JulioRodrigueAp" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/juujap" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+</p>
+<br />
+
+<!--Sobre mim -->
+ # Sobre mim!
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Curto fazer uns códigos em várias linguagens diferentes <br/><br/>
+ ❤️ &emsp; Adoro jogos, RPG, livros e musica <br/><br/>
+ 📧 &emsp; Veja mais de mim no meu [perfil](https://guns.lol/juuj)<br/><br/>
+ 💬 &emsp; Converse comigo no [Discord](https://discordapp.com/users/569741184625541121), sou mais ativo la!<br/><br/>
+
+</p>
+
+<!-- Linguagens aprendidas-->
+<h2>Estou aprendendo algumas linguages!<h2>
+<p>
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+</p>
+
+<!--estatisticas-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuuJap&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuuJap&layout=compact&theme=dracula)
+
+
