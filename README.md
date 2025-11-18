@@ -1,14 +1,9 @@
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=JuuJap&label=Visitors&color=FF0000&style=flat" alt="Profile visitor" />
-</a>
-
 <p>• Perfilzinho <a href="https://github.com/JuuJap"">JuuJap</a></p>
 
 <!-- Inicio pae  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=red&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+JuuJap!;Bem-vindo+ao+meu+perfil!",>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+JuuJap!;Bem-vindo+ao+meu+perfil!",>
 </p>
 
 
