@@ -45,12 +45,6 @@
  📧 &emsp; Veja mais de mim no meu [site](https://guns.lol/juuj)<br/><br/>
  💬 &emsp; Converse comigo no [Discord](https://discordapp.com/users/569741184625541121), sou mais ativo la!<br/><br/>
 
-</p>
-
-<!-- Linguagens aprendidas-->
-<h2>Estou aprendendo algumas linguages!<h2>
-<p>
-
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,3 +52,4 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 </p>
+
