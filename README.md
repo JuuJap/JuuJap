@@ -38,7 +38,6 @@
  # Sobre mim!
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Curto fazer uns códigos em várias linguagens diferentes <br/><br/>
  ❤️ &emsp; Adoro jogos, RPG, livros e musica <br/><br/>
