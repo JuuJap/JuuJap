@@ -14,7 +14,7 @@
     <a href="https://discordapp.com/users/569741184625541121">「 My Discord 」</a>
     <br>
     <p align="center">
-    「 Atualmente sou um estudante de ADS <b>Brasileiro</b> 」
+    「 Atualmente sou um estudante de ADS 」
     </p>
     <br>
     <br>
